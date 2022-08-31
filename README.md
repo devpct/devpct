@@ -4,7 +4,9 @@ My name is Mohammad Abdollahzadeh
 Developer & Designer
 -----------------------------
 
-<a href="https://www.twitter.com/m_a_developer" target="_blank" rel="noreferrer"><img
+<a href="https://www.instagram.com/m.a.developer" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/instagram/follow/m.a.developer?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+                /></a><a href="https://www.twitter.com/m_a_developer" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/m_a_developer?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a><a href="https://www.github.com/developer-2006" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/developer-2006?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
