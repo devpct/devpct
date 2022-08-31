@@ -1,7 +1,7 @@
 My name is Mohammad Abdollahzadeh
 ===============================
 
-Developer & Teacher
+Developer & Designer
 -----------------------------
 
 *   🖥️  See my portfolio at [badrnezhad.com](https://badrnezhad.com)
