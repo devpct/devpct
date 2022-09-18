@@ -2,7 +2,7 @@
 <h1 align="center">
 Mohammad Abdollahzadeh</h1>
 <p align="center">
-Developer & Designer
+Developer
 </p>
 
 
