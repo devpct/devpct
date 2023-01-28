@@ -1,5 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/102470936?v=4" width="36" height="36" alt="Figma"
-title="Figma"/>
+<img src="https://avatars.githubusercontent.com/u/102470936?v=4" width="80" height="80"/>
 
 <hr>
 <h1 align="center">
