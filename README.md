@@ -19,8 +19,8 @@ title="HTML"/>
 title="CSS"/>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" 
 title="React"/>
- <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" width="36" height="36" alt="Jquery" 
-title="Jquery"/>
+ <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" width="36" height="36" alt="jQuery" 
+title="jQuery"/>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap"
 title="Bootstrap"/>
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/tailwind-css-icon.svg" width="36" height="36" alt="tailwind" title="Tailwind" />
