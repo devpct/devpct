@@ -1,3 +1,6 @@
+<img src="https://avatars.githubusercontent.com/u/102470936?v=4" width="36" height="36" alt="Figma"
+title="Figma"/>
+
 <hr>
 <h1 align="center">
 Mohammad Abdollahzadeh</h1>
