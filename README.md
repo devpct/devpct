@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/102470936?v=4" width="90" height="90"/>
+<img src="https://avatars.githubusercontent.com/u/102470936?v=4" width="90" height="90" style="border-radius: 2rem;"/>
 
 <hr>
 <h1 align="center">
