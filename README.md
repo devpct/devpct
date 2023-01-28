@@ -19,8 +19,6 @@ title="HTML"/>
 title="CSS"/>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" 
 title="React"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/Jqueryjs.svg" width="36" height="36" alt="Jquery"
-title="Jquery"/>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap"
 title="Bootstrap"/>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss.svg" width="36" height="36" alt="tailwind" title="Tailwind" />
