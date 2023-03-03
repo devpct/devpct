@@ -28,8 +28,6 @@ title="Bootstrap"/>
 title="Sass"/>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma"
 title="Figma"/>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcoderpad.io%2Fblog%2Fdevelopment%2Fthe-complete-guide-to-regular-expressions-regex%2F&psig=AOvVaw3e12AxEl6BstEwd2oHkG8P&ust=1677954023138000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKiu2IiwwP0CFQAAAAAdAAAAABAF)" width="36" height="36" alt="jQuery" 
-title="jQuery"/>
 
 </p>
     
