@@ -28,7 +28,8 @@ title="Bootstrap"/>
 title="Sass"/>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma"
 title="Figma"/>
-
+<img src="https://icons.veryicon.com/png/o/object/material-design-icons-1/regex.png" width="36" height="36" alt="Figma"
+title="Figma"/>
 </p>
     
     
