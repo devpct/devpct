@@ -21,7 +21,7 @@ title="CSS"/>
 title="React"/>
  <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" width="36" height="36" alt="jQuery" 
 title="jQuery"/>
-<img src="https://freeimage.host/i/H8PZ9UB" width="36" height="36" alt="Mui"
+<img src="https://iili.io/H8PZ9UB.png" width="36" height="36" alt="Mui"
 title="Mui"/>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap"
 title="Bootstrap"/>
