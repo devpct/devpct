@@ -32,6 +32,8 @@ title="Sass"/>
 title="Regex"/>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma"
 title="Figma"/>
+<img src="https://images.freeimages.com/fic/images/icons/2773/pictonic_free/512/prog_flask.png" width="36" height="36" alt="Flask"
+title="Flask"/>
 </p>
     
     
