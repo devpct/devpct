@@ -11,14 +11,14 @@ Front-end Developer
  <h2>Skills</h2>
  
 <p align="left">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" 
+title="React"/>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" 
 title="Javascript"/>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML" 
 title="HTML"/>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS" 
 title="CSS"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" 
-title="React"/>
  <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" width="36" height="36" alt="jQuery" 
 title="jQuery"/>
 <img src="https://iili.io/H8PZ9UB.png" width="36" height="36" alt="Mui"
