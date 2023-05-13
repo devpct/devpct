@@ -34,6 +34,8 @@ title="Regex"/>
 title="Figma"/>
 <img src="https://images.freeimages.com/fic/images/icons/2773/pictonic_free/512/prog_flask.png" width="36" height="36" alt="Flask"
 title="Flask"/>
+<img src="https://icon-library.com/images/django-icon/django-icon-0.jpg" width="36" height="36" alt="Django"
+title="Django"/>
 </p>
     
     
