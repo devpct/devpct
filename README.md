@@ -25,7 +25,7 @@ title="jQuery"/>
 title="Mui"/>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap"
 title="Bootstrap"/>
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/tailwind-css-icon.svg" width="36" height="36" alt="tailwind" title="Tailwind" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="36" height="36" alt="tailwind" title="Tailwind" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass"
 title="Sass"/>
 <img src="https://icons.veryicon.com/png/o/object/material-design-icons-1/regex.png" width="36" height="36" alt="Regex"
