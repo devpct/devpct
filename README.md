@@ -1,12 +1,10 @@
-<hr>
-<h1 align="center">
-Mohammad Abdollahzadeh</h1>
-<p align="center">
-Front-end Developer
-</p>
 
 
+<div align="center">
+ 
+![header](https://capsule-render.vercel.app/api?type=waving&color=FDB813&height=300&section=header&text=Mohammad%20Abdollahzadeh&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Front-end%20developer%20web%20-%20React.js!&descAlignY=51&descAlign=62&descColor=000000)
 
+</div>
 
  <h2>Skills</h2>
  
