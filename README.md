@@ -5,7 +5,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FDB813&height=300&section=header&text=Mohammad%20Abdollahzadeh&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Front-end%20developer%20web%20-%20React.js&descAlignY=55&descAlign=50&descColor=000000)
 </div>
 
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<hr>
+
+<img align="right" width="300" height="220" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 <div align="left">
  
@@ -38,6 +40,7 @@ title="Flask"/>
 title="Django"/>
 </div>
 
+<hr>
             
 > ### Connect with me
 
@@ -49,7 +52,8 @@ title="Django"/>
 <a href="https://www.twitter.com/m_a_developer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" /></a>
 <a href="https://www.instagram.com/m.a.developer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" /></a>
 </div>
-<br>
+
+<hr>
 
 <div align="center">
  
