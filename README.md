@@ -1,14 +1,14 @@
-
-
 <div align="center">
  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FDB813&height=300&section=header&text=Mohammad%20Abdollahzadeh&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Front-end%20developer%20web%20-%20React.js&descAlignY=55&descAlign=50&descColor=000000)
-
 </div>
 
- <h2>Skills</h2>
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
+<div align="left">
  
-<p align="left">
+> ### Skills
+ 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" 
 title="React"/>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" 
@@ -34,13 +34,11 @@ title="Figma"/>
 title="Flask"/>
 <img src="https://icon-library.com/images/django-icon/django-icon-0.jpg" width="36" height="36" alt="Django"
 title="Django"/>
-</p>
-    
-    
+</div>
              
-             
- <h2> Socials </h2>
-                  
+            
+> ### Socials
+
 <p align="left">
 <a href="https://www.instagram.com/m.a.developer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 <a href="https://www.github.com/developer-2006" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
