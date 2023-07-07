@@ -39,7 +39,7 @@ title="Django"/>
 </div>
              
             
-> ### Socials
+> ### Connect with me
 
 <div align="left">
 <a href="https://www.linkedin.com/in/developer2006" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
