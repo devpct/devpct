@@ -5,6 +5,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FDB813&height=300&section=header&text=Mohammad%20Abdollahzadeh&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Front-end%20developer%20web%20-%20React.js&descAlignY=55&descAlign=50&descColor=000000)
 </div>
 
+
 <hr>
 
 <img align="right" width="300" height="220" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
@@ -15,6 +16,8 @@
 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" alt="React" 
 title="React"/>
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-redux-3629018-3030243.png" width="36" alt="Redux"
+title="Redux"/>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" alt="Javascript" 
 title="Javascript"/>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" alt="HTML" 
@@ -32,12 +35,14 @@ title="Bootstrap"/>
 title="Sass"/>
 <img src="https://icons.veryicon.com/png/o/object/material-design-icons-1/regex.png" width="36" alt="Regex"
 title="Regex"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" alt="Figma"
-title="Figma"/>
-<img src="https://images.freeimages.com/fic/images/icons/2773/pictonic_free/512/prog_flask.png" width="36" alt="Flask"
-title="Flask"/>
+<img src="https://static-00.iconduck.com/assets.00/node-js-icon-1901x2048-mk1e13df.png" width="36" alt="NodeJS"
+title="NodeJS"/>
 <img src="https://icon-library.com/images/django-icon/django-icon-0.jpg" width="36" alt="Django"
 title="Django"/>
+<img src="https://images.freeimages.com/fic/images/icons/2773/pictonic_free/512/prog_flask.png" width="36" alt="Flask"
+title="Flask"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" alt="Figma"
+title="Figma"/>
 </div>
 
 <hr>
