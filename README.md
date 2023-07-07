@@ -38,12 +38,6 @@ title="Flask"/>
 title="Django"/>
 </div>
 
-<pre>
-  <code style="width: 10px;">
-    console.log('I Love React.js');
-  </code>
-</pre>
-
             
 > ### Connect with me
 
