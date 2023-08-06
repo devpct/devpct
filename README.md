@@ -12,7 +12,7 @@
 
 <div align="left">
  
-> ### Skills
+> ### Expertises
 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" alt="React" 
 title="React"/>
@@ -37,10 +37,8 @@ title="Sass"/>
 title="Regex"/>
 <img src="https://static-00.iconduck.com/assets.00/node-js-icon-1901x2048-mk1e13df.png" width="36" alt="NodeJS"
 title="NodeJS"/>
-<img src="https://icon-library.com/images/django-icon/django-icon-0.jpg" width="36" alt="Django"
-title="Django"/>
-<img src="https://images.freeimages.com/fic/images/icons/2773/pictonic_free/512/prog_flask.png" width="36" alt="Flask"
-title="Flask"/>
+<img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" width="36" alt="WordPress"
+title="WordPress"/>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" alt="Figma"
 title="Figma"/>
 </div>
