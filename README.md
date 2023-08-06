@@ -8,22 +8,25 @@
 
 <hr>
 
-<img align="right" width="300" height="260" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<img align="right" width="400" height="330" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 <div align="left">
  
-> ### Expertises
+### Expertises
 
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" alt="React" 
-title="React"/>
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-redux-3629018-3030243.png" width="36" alt="Redux"
-title="Redux"/>
+> ### Languages
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" alt="Javascript" 
 title="Javascript"/>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" alt="HTML" 
 title="HTML"/>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" alt="CSS" 
 title="CSS"/>
+
+> ### Frameworks
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" alt="React" 
+title="React"/>
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-redux-3629018-3030243.png" width="36" alt="Redux"
+title="Redux"/>
  <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" width="36" alt="jQuery" 
 title="jQuery"/>
 <img src="https://iili.io/H8PZ9UB.png" width="36"  alt="Mui"
@@ -39,10 +42,17 @@ title="Regex"/>
 title="NodeJS"/>
 <img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" width="36" alt="WordPress"
 title="WordPress"/>
+
+> ### Tools
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" alt="Figma"
 title="Figma"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" width="39" alt="Git"
+title="Git"/>
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" width="39" alt="Vscode"
+title="Vscode"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width="37" alt="Linux"
+title="Linux"/>
 </div>
-
 <hr>
             
 > ### Connect with me
