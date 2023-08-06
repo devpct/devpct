@@ -8,7 +8,7 @@
 
 <hr>
 
-<img align="right" width="400" height="330" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<img align="right" width="380" height="330" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 <div align="left">
  
@@ -25,21 +25,23 @@ title="CSS"/>
 > ### Frameworks
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" alt="React" 
 title="React"/>
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-redux-3629018-3030243.png" width="36" alt="Redux"
-title="Redux"/>
+<img src="https://static-00.iconduck.com/assets.00/node-js-icon-1901x2048-mk1e13df.png" width="36" alt="NodeJS"
+title="NodeJS"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="36" alt="TypeScript"
+title="TypeScript"/>
  <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" width="36" alt="jQuery" 
 title="jQuery"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" alt="Sass"
+title="Sass"/>
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-redux-3629018-3030243.png" width="36" alt="Redux"
+title="Redux"/>
 <img src="https://iili.io/H8PZ9UB.png" width="36"  alt="Mui"
 title="Mui"/>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" alt="Bootstrap"
 title="Bootstrap"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="36"  alt="tailwind" title="Tailwind" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" alt="Sass"
-title="Sass"/>
 <img src="https://icons.veryicon.com/png/o/object/material-design-icons-1/regex.png" width="36" alt="Regex"
 title="Regex"/>
-<img src="https://static-00.iconduck.com/assets.00/node-js-icon-1901x2048-mk1e13df.png" width="36" alt="NodeJS"
-title="NodeJS"/>
 <img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" width="36" alt="WordPress"
 title="WordPress"/>
 
