@@ -17,10 +17,10 @@
 > ### Languages
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" alt="Javascript" 
 title="Javascript"/>
-<img src="https://static-00.iconduck.com/assets.00/node-js-icon-1901x2048-mk1e13df.png" width="36" alt="NodeJS"
-title="NodeJS"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="36" alt="TypeScript"
 title="TypeScript"/>
+<img src="https://static-00.iconduck.com/assets.00/node-js-icon-1901x2048-mk1e13df.png" width="36" alt="NodeJS"
+title="NodeJS"/>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" alt="HTML" 
 title="HTML"/>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" alt="CSS" 
