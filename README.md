@@ -27,8 +27,10 @@ title="HTML"/>
 title="CSS"/>
 
 > ### Frameworks
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" alt="React" 
-title="React"/>
+<img src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" width="36" alt="NextJS" 
+title="NextJS"/>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" alt="ReactJS" 
+title="ReactJS"/>
  <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" width="36" alt="jQuery" 
 title="jQuery"/>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" alt="Sass"
