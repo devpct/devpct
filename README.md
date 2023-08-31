@@ -15,46 +15,46 @@
 ### Expertises
 
 > ### Languages
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" alt="Javascript" 
+<img src="https://skillicons.dev/icons?i=js" width="40"  alt="Javascript" 
 title="Javascript"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="36" alt="TypeScript"
+<img src="https://skillicons.dev/icons?i=ts" width="40"  alt="TypeScript"
 title="TypeScript"/>
-<img src="https://static-00.iconduck.com/assets.00/node-js-icon-1901x2048-mk1e13df.png" width="36" alt="NodeJS"
+<img src="https://skillicons.dev/icons?i=nodejs" width="40"  alt="NodeJS"
 title="NodeJS"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" alt="HTML" 
+<img src="https://skillicons.dev/icons?i=html" width="40" alt="HTML" 
 title="HTML"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" alt="CSS" 
+<img src="https://skillicons.dev/icons?i=css" width="40" alt="CSS" 
 title="CSS"/>
 
 > ### Frameworks
-<img src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" width="36" alt="NextJS" 
+<img src="https://skillicons.dev/icons?i=next" width="40" alt="NextJS" 
 title="NextJS"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" alt="ReactJS" 
+<img src="https://skillicons.dev/icons?i=react" width="40" alt="ReactJS" 
 title="ReactJS"/>
- <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" width="36" alt="jQuery" 
+ <img src="https://skillicons.dev/icons?i=jquery" width="40" alt="jQuery" 
 title="jQuery"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" alt="Sass"
+<img src="https://skillicons.dev/icons?i=sass" width="40" alt="Sass"
 title="Sass"/>
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-redux-3629018-3030243.png" width="36" alt="Redux"
+<img src="https://skillicons.dev/icons?i=redux" width="40" alt="Redux"
 title="Redux"/>
-<img src="https://iili.io/H8PZ9UB.png" width="36"  alt="Mui"
+<img src="https://skillicons.dev/icons?i=mui" width="40"  alt="Mui"
 title="Mui"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" alt="Bootstrap"
+<img src="https://skillicons.dev/icons?i=bootstrap" width="40" alt="Bootstrap"
 title="Bootstrap"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="36"  alt="tailwind" title="Tailwind" />
-<img src="https://icons.veryicon.com/png/o/object/material-design-icons-1/regex.png" width="36" alt="Regex"
+<img src="https://skillicons.dev/icons?i=tailwind" width="40"  alt="tailwind" title="Tailwind" />
+<img src="https://skillicons.dev/icons?i=regex" width="40" alt="Regex"
 title="Regex"/>
-<img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" width="36" alt="WordPress"
+<img src="https://skillicons.dev/icons?i=wordpress" width="40" alt="WordPress"
 title="WordPress"/>
 
 > ### Tools
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" alt="Figma"
+<img src="https://skillicons.dev/icons?i=figma" width="40" alt="Figma"
 title="Figma"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" width="39" alt="Git"
+<img src="https://skillicons.dev/icons?i=git" width="40" alt="Git"
 title="Git"/>
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" width="39" alt="Vscode"
+<img src="https://skillicons.dev/icons?i=vscode" width="40" alt="Vscode"
 title="Vscode"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width="37" alt="Linux"
+<img src="https://skillicons.dev/icons?i=linux" width="40" alt="Linux"
 title="Linux"/>
 </div>
 <hr>
@@ -63,11 +63,11 @@ title="Linux"/>
 
 <div align="left">
 <a href="mailto:mrdevpct@gmail.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png?20221017173631" width="40" /></a>
-<a href="https://www.linkedin.com/in/devpct" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" /></a>
-<a href="https://codepen.io/MohammadAbdollahzadeh" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111501.png" width="32" /></a>
-<a href="https://stackoverflow.com/users/18831761/mohammad-abdollahzadeh" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1200px-Stack_Overflow_icon.svg.png" width="40" /></a>
+<a href="https://www.linkedin.com/in/devpct" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
+<a href="https://codepen.io/MohammadAbdollahzadeh" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=codepen" width="40" /></a>
+<a href="https://stackoverflow.com/users/18831761/mohammad-abdollahzadeh" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=stackoverflow" width="40" /></a>
 <a href="https://www.twitter.com/devpct" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" /></a>
-<a href="https://www.instagram.com/devpct" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" /></a>
+<a href="https://www.instagram.com/devpct" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=instagram" width="40" /></a>
 </div>
 
 <hr>
