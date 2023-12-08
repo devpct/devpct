@@ -38,7 +38,7 @@ title="Sass"/>
 <img src="https://skillicons.dev/icons?i=redux" width="40" alt="Redux"
 title="Redux"/>
 <img src="https://skillicons.dev/icons?i=mui" width="40"  alt="Mui"
-title="Mui"/>
+title="MUI"/>
 <img src="https://skillicons.dev/icons?i=bootstrap" width="40" alt="Bootstrap"
 title="Bootstrap"/>
 <img src="https://skillicons.dev/icons?i=tailwind" width="40"  alt="tailwind" title="Tailwind" />
@@ -53,7 +53,7 @@ title="Figma"/>
 <img src="https://skillicons.dev/icons?i=git" width="40" alt="Git"
 title="Git"/>
 <img src="https://skillicons.dev/icons?i=vscode" width="40" alt="Vscode"
-title="Vscode"/>
+title="VScode"/>
 <img src="https://skillicons.dev/icons?i=linux" width="40" alt="Linux"
 title="Linux"/>
 </div>
