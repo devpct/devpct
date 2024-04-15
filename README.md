@@ -17,8 +17,6 @@
 > ### Languages
 <img src="https://skillicons.dev/icons?i=js" width="40"  alt="Javascript" 
 title="Javascript"/>
-<img src="https://skillicons.dev/icons?i=ts" width="40"  alt="TypeScript"
-title="TypeScript"/>
 <img src="https://skillicons.dev/icons?i=html" width="40" alt="HTML" 
 title="HTML"/>
 <img src="https://skillicons.dev/icons?i=css" width="40" alt="CSS" 
@@ -29,9 +27,7 @@ title="CSS"/>
 title="NextJS"/>
 <img src="https://skillicons.dev/icons?i=react" width="40" alt="ReactJS" 
 title="ReactJS"/>
-<img src="https://skillicons.dev/icons?i=nodejs" width="40"  alt="NodeJS"
-title="NodeJS"/>
- <img src="https://skillicons.dev/icons?i=jquery" width="40" alt="jQuery" 
+<img src="https://skillicons.dev/icons?i=jquery" width="40" alt="jQuery" 
 title="jQuery"/>
 <img src="https://skillicons.dev/icons?i=sass" width="40" alt="Sass"
 title="Sass"/>
