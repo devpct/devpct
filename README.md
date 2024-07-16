@@ -18,29 +18,19 @@
 <a href="https://www.javascript.com/" target="_blank"  rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" width="40"  alt="Javascript" title="Javascript"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank"  rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" width="40"  alt="Typescript" title="Typescript"/></a>
 <a href="https://html.com/" target="_blank"  rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" width="40" alt="HTML" title="HTML"/></a>
-<img src="https://skillicons.dev/icons?i=css" width="40" alt="CSS" 
-title="CSS"/>
+<a href="https://www.w3.org/" target="_blank"  rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" width="40" alt="CSS" title="CSS"/></a>
 
 > ### Frameworks
-<img src="https://skillicons.dev/icons?i=next" width="40" alt="NextJS" 
-title="NextJS"/>
-<img src="https://skillicons.dev/icons?i=react" width="40" alt="ReactJS" 
-title="ReactJS"/>
-<img src="https://skillicons.dev/icons?i=jquery" width="40" alt="jQuery" 
-title="jQuery"/>
-<img src="https://skillicons.dev/icons?i=sass" width="40" alt="Sass"
-title="Sass"/>
-<img src="https://skillicons.dev/icons?i=redux" width="40" alt="Redux"
-title="Redux"/>
-<img src="https://skillicons.dev/icons?i=mui" width="40"  alt="Mui"
-title="MUI"/>
-<img src="https://skillicons.dev/icons?i=bootstrap" width="40" alt="Bootstrap"
-title="Bootstrap"/>
-<img src="https://skillicons.dev/icons?i=tailwind" width="40"  alt="tailwind" title="Tailwind" />
-<img src="https://skillicons.dev/icons?i=regex" width="40" alt="Regex"
-title="Regex"/>
-<img src="https://skillicons.dev/icons?i=wordpress" width="40" alt="WordPress"
-title="WordPress"/>
+<a href="https://nextjs.org/" target="_blank"  rel="noreferrer"><img src="https://skillicons.dev/icons?i=next" width="40" alt="NextJS" title="NextJS"/></a>
+<a href="https://react.dev/" target="_blank"  rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" width="40" alt="ReactJS" title="ReactJS"/></a>
+<a href="https://jquery.com/" target="_blank"  rel="noreferrer"><img src="https://skillicons.dev/icons?i=jquery" width="40" alt="jQuery" title="jQuery"/></a>
+<a href="https://sass-lang.com/" target="_blank"  rel="noreferrer"><img src="https://skillicons.dev/icons?i=sass" width="40" alt="Sass" title="Sass"/></a>
+<a href="https://redux.js.org/" target="_blank"  rel="noreferrer"><img src="https://skillicons.dev/icons?i=redux" width="40" alt="Redux" title="Redux"/></a>
+<a href="https://mui.com/" target="_blank"  rel="noreferrer"><img src="https://skillicons.dev/icons?i=mui" width="40"  alt="Mui" title="MUI"/></a>
+<a href="https://getbootstrap.com/" target="_blank"  rel="noreferrer"><img src="https://skillicons.dev/icons?i=bootstrap" width="40" alt="Bootstrap" title="Bootstrap"/></a>
+<a href="https://tailwindcss.com/" target="_blank"  rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" width="40"  alt="tailwind" title="Tailwind"/></a>
+<a href="https://regexr.com/" target="_blank"  rel="noreferrer"><img src="https://skillicons.dev/icons?i=regex" width="40" alt="Regex" title="Regex"/></a>
+<a href="https://wordpress.org/" target="_blank"  rel="noreferrer"><img src="https://skillicons.dev/icons?i=wordpress" width="40" alt="WordPress" title="WordPress"/></a>
 
 > ### Tools
 <img src="https://skillicons.dev/icons?i=figma" width="40" alt="Figma"
