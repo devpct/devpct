@@ -62,8 +62,8 @@ title="Linux"/>
 <div align="left">
 <a href="mailto:mrdevpct@gmail.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
 <a href="https://www.linkedin.com/in/devpct" target="_blank" rel="noreferrer"><img src="https://cdn4.iconfinder.com/data/icons/socialcones/508/LinkedIn-512.png" width="40" /></a>
-<a href="https://www.x.com/devpct" target="_blank" rel="noreferrer"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-logo-icon.png" width="40" /></a>
-<a href="https://www.instagram.com/devpct" target="_blank" rel="noreferrer"><img src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/instagram_icon-instagram_buttoninstegram-512.png" width="43" /></a>
+<a href="https://www.x.com/devpct" target="_blank" rel="noreferrer"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-logo-icon.png" width="42"  height="42" /></a>
+<a href="https://www.instagram.com/devpct" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/3938/3938036.png" width="41" height="42" /></a>
 </div>
 
 <hr>
