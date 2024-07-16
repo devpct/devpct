@@ -33,14 +33,10 @@
 <a href="https://wordpress.org/" target="_blank"  rel="noreferrer"><img src="https://skillicons.dev/icons?i=wordpress" width="40" alt="WordPress" title="WordPress"/></a>
 
 > ### Tools
-<img src="https://skillicons.dev/icons?i=figma" width="40" alt="Figma"
-title="Figma"/>
-<img src="https://skillicons.dev/icons?i=git" width="40" alt="Git"
-title="Git"/>
-<img src="https://skillicons.dev/icons?i=vscode" width="40" alt="Vscode"
-title="VScode"/>
-<img src="https://skillicons.dev/icons?i=linux" width="40" alt="Linux"
-title="Linux"/>
+<a href="https://www.figma.com/" target="_blank"  rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma" width="40" alt="Figma" title="Figma"/></a>
+<a href="https://git-scm.com/" target="_blank"  rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" width="40" alt="Git" title="Git"/></a>
+<a href="https://code.visualstudio.com/" target="_blank"  rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode" width="40" alt="Vscode" title="VScode"/></a>
+<a href="https://www.linux.org/" target="_blank"  rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux" width="40" alt="Linux" title="Linux"/></a>
 </div>
 <hr>
             
