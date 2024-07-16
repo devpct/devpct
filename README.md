@@ -15,10 +15,8 @@
 ### Expertises
 
 > ### Languages
-<img src="https://skillicons.dev/icons?i=js" width="40"  alt="Javascript" 
-title="Javascript"/>
-<img src="https://skillicons.dev/icons?i=ts" width="40"  alt="Typescript" 
-title="Typescript"/>
+<a href="https://www.javascript.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" width="40"  alt="Javascript" title="Javascript"/></a>
+<a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" width="40"  alt="Typescript" title="Typescript"/></a>
 <img src="https://skillicons.dev/icons?i=html" width="40" alt="HTML" 
 title="HTML"/>
 <img src="https://skillicons.dev/icons?i=css" width="40" alt="CSS" 
